@@ -2,7 +2,7 @@
 
 ### Junior Penetration Tester | eJPT | CompTIA Security+
 
-Offensive security practitioner focused on hands-on penetration testing, Active Directory security, web application testing, and vulnerability research.
+Focused on offensive security, with hands-on experience in Linux and Windows penetration testing, Active Directory, web application security, and vulnerability research.
 
 ## About
 
