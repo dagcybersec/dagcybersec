@@ -32,6 +32,8 @@ Practical defensive security exercises covering network monitoring, log analysis
 ## Current Focus
 
 - Penetration Testing
+- Linux Security
+- Windows Security
 - Active Directory Security
 - Web Application Security
 - Vulnerability Research
