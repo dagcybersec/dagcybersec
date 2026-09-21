@@ -6,7 +6,7 @@ Focused on offensive security, with hands-on experience in Linux and Windows pen
 
 ## About
 
-I have completed 30+ hands-on Hack The Box and VulnHub machines across Linux, Windows, Active Directory, and web application environments.
+I have completed 40+ hands-on Hack The Box and VulnHub machines across Linux, Windows, Active Directory, and web application environments.
 
 My current work focuses on building professional penetration testing reports and developing practical offensive security projects.
 
