@@ -28,6 +28,7 @@ Practical defensive security exercises covering network monitoring, log analysis
 
 - [CompTIA Security+](https://www.credly.com/badges/94ce3b6e-8360-433b-8a24-7dc424ec97ec/public_url)
 - [eJPT — INE Security](https://certs.ine.com/8ebbb5c8-6623-4448-98d4-aac92481cf5e#acc.QOgNCp1i)
+- [ICCA - INE Certified Cloud Associate](https://certs.ine.com/b3356ff0-6ace-463e-b16e-7305212fde3f)
 
 ## Current Focus
 
