@@ -1,6 +1,6 @@
 # Alexandru Gabriel Dan
 
-### Junior Penetration Tester | eJPT | CompTIA Security+
+### Junior Penetration Tester | eJPT | CompTIA Security+ | ICCA
 
 Focused on offensive security, with hands-on experience in Linux and Windows penetration testing, Active Directory, web application security, and vulnerability research.
 
